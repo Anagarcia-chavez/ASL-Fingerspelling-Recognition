@@ -1,0 +1,18 @@
+# Dataset (optional Kaggle bootstrap data, not used by default)
+data/raw/
+
+# Generated landmark CSVs and trained model (regeneratable from the dataset)
+data/landmarks/*.csv
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
