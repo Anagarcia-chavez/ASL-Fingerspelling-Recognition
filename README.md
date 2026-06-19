@@ -143,5 +143,4 @@ Controls: `q` to quit, `c` to clear the sentence (also clears the LCD).
 - A "backspace"/"delete" gesture to correct misread letters.
 - A "new sentence" gesture mapped to the clear signal (`\f`) instead of
   needing the `c` key.
-- Word-prediction/autocomplete shown on a second display or via serial
-  back to the PC.
+- Increased vocabulary input
